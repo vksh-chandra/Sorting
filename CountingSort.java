@@ -1,4 +1,3 @@
-package Sorting;
 import java.util.*;
 public class CountingSort {
     public static int[] countingSort(int[] array, int n, int max){
