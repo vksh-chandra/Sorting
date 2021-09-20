@@ -1,4 +1,3 @@
-package Sorting;
 import java.util.*;
 public class SelectionSort {
     public static int[] selectionSort(int[] array, int n){
