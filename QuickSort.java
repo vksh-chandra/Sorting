@@ -1,4 +1,3 @@
-package Sorting;
 import java.util.*;
 public class QuickSort {
     static int partition(int[] array, int lb, int ub){
