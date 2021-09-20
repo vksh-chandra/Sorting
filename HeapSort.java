@@ -1,4 +1,3 @@
-package Sorting;
 import java.util.*;
 public class HeapSort {
     public static void heapify(int[] array, int n, int i){
